@@ -24,7 +24,7 @@
 		name: 'Train',
 		data() {
 			return {
-				msg: 'hello！Here is Train page!!!!!!!!!!！！！！！',
+				msg: 'hello！This is Train page!!',
 				value4: true,
 				value5: [new Date(2016, 9, 10, 8, 40), new Date(2016, 9, 10, 9, 40)],
 				form: {
