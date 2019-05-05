@@ -16,7 +16,7 @@ export default {
 	},
   data () {
     return {
-      msg: 'HelloWorld page',
+      msg: 'HelloWorld page.',
 			isCollapse: true,
 			he:'jjj',
 			sdsd:{
